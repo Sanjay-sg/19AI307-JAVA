@@ -38,8 +38,8 @@ To write a Java program to verify if a string reads the same forward and backwar
  ```
 
 Program to implement a Strings and Math Function using Java
-Developed by: Aakash P
-RegisterNumber:  212222110001
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 
 ```
 
@@ -76,4 +76,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to check whether a string is a palindrome was executed successfully.
+
 
