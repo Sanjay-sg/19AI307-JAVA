@@ -52,8 +52,8 @@ To implement conditional logic in Java using nested if-else statements and the m
  ```
 
 Program to implement a conditional statement using Java
-Developed by:  Aakash P
-RegisterNumber:  212222110001
+Developed by:  SANJAY G
+RegisterNumber:  212222230131
 
 ```
 
@@ -91,4 +91,5 @@ public class Main {
 
 
 The program was successfully developed and executed.It correctly classifies the given DNA number as Accepted, Suspect, or Rejected based on the specified conditional rules.
+
 
