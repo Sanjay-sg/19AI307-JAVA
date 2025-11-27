@@ -25,8 +25,8 @@ To write a Java program that reads an array of integers and finds the index of a
   ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Aakash P
-RegisterNumber:  212222110001
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 */
 ```
 
@@ -63,6 +63,7 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
+
 
 
 
