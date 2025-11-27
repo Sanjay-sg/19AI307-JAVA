@@ -44,8 +44,8 @@ and compute the final payable amount based on purchase weight and gold rate per 
   ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Aakash P
-RegisterNumber:  212222110001
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 */
 ```
 
@@ -171,6 +171,7 @@ The program successfully computes the final gold purchase price for:
 - Premium customers (with 5% discount and 1% cashback)
 
 It displays complete details including customer type, discount applied, final price, and cashback for premium customers.
+
 
 
 
