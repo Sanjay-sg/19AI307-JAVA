@@ -25,9 +25,8 @@ To create a Java program demonstrating method overriding by defining a base clas
 ## PROGRAM:
  ```
 Program to implement a Variable scope and Constructor using Java
-Developed by: Aakash P
-RegisterNumber: 212222110001
-
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 ```
 
 ## SOURCE CODE:
@@ -95,4 +94,5 @@ public class TestVehicles {
 
 ## RESULT:
 Therefore the  program successfully demonstrates method overriding by applying different speed increase behaviors for car and bicycle.
+
 
