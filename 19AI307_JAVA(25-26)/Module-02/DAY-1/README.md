@@ -20,8 +20,8 @@ To Create a class Vehicle with attributes as number, type and owner.
 ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Aakash P
-RegisterNumber:  212222110001
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 */
 ```
 
@@ -62,6 +62,7 @@ public class Main {
 
 ## RESULT:
 Thus, a Java program to create a class Vehicle with attributes number, type, and owner was successfully implemented and executed.
+
 
 
 
