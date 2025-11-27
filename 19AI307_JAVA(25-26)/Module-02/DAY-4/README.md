@@ -34,8 +34,8 @@ To write a Java program that initializes object variables using a constructor an
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Aakash P
-RegisterNumber:  212222110001
+Developed by: SANJAY G
+RegisterNumber:  212222230131
 */
 ```
 
@@ -82,6 +82,7 @@ public class StudentDemo {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
